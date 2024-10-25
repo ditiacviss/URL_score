@@ -1,0 +1,10 @@
+,Url,Domain Age,Page Rank,Is Free,Validation Period,Has Protective Status,Has Strong Security,Caching,Compressed
+0,https://sabah.com.tr,-1,6,False,394.0,,"[None, True, False, None, True, True, True, True, True]",True,True
+1,https://mmofreegames.online,-1,1,True,89.0,True,"[None, True, False, None, True, True, True, True, True]",True,False
+2,https://web.de,-1,6,,,False,"[None, True, False, None, True, True, True, True, True]",True,True
+3,https://eastday.com,9006,5,False,396.0,,"[None, True, False, None, True, True, True, True, True]",True,True
+4,https://gmx.net,9444,6,,,True,"[None, True, False, None, True, True, True, True, True]",True,True
+5,https://leagueoflegends.com,6232,6,True,395.0,True,"[None, True, False, None, True, True, True, True, True]",True,True
+6,https://youtube-mp3.org,5513,5,,,True,"[None, True, False, None, True, True, True, True, True]",False,False
+7,https://rumble.com,9446,7,False,370.0,True,"[None, True, False, None, True, True, True, True, True]",False,False
+8,https://varzesh3.com,5008,5,False,380.0,True,"[None, True, False, None, True, True, True, True, True]",True,True
