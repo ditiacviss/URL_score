@@ -430,6 +430,7 @@ def main():
 
     st.title("URL Legitimacy Tracker")
     user_input = st.text_area("Enter the URL:")
+    st.button("Enter", type="primary")
 
     if user_input:
         try:
